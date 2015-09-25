@@ -1,0 +1,16 @@
+{
+  "name": "nnng",
+  "version": "1.0.0",
+  "description": "Coordinate transformation between OSGB36 and WGS84",
+  "author": "Miëtek Bak <hello@mietek.io>",
+  "homepage": "https://github.com/mietek/nnng",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mietek/nnng"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {
+    "proj4": "^2.3.10"
+  }
+}
